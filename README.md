@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # EAT-N-SPLIT
 
 A basic application to add a friend to the list, and select and enter billing details to update the pending bill transactions between you and the chosen friend.
